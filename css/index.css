@@ -47,14 +47,15 @@ h1 {
 #resize2 {
   border: 2px solid rgb(17, 0, 255);
     border-radius: 50%
-    width : 500px;
-    height : 445px;
+    width ; 400px;
+    height : 400px;
     Float :right
 }
 
 .intrests {
   background-color: chocolate;
-text-align: center;
+text-align: left;
+flex-direction: ;
 }
 
 
@@ -65,6 +66,9 @@ text-align: center;
 
 .Projects {
   background-color: chocolate;
+ text-align: left;
+ flex-direction: column;
+display: block;
 
 }
 
