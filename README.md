@@ -5,7 +5,7 @@
 ## Description
 This is my first portfolio as a software developer .It shows details and a my journey of being a developer. I t has projects that i have worked since i started learning software development.
 ## Setup/Installation Requirements
-* This is just a portfolio for you to look the work i have done as a software developer. I created it using the following istructtion 
+** This is just a portfolio for you to look the work i have done as a software developer. I created it using the following instructions** 
 * Created a github repository
 * Cloned it to my local device
 * Developed the project folders and files
