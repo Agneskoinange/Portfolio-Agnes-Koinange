@@ -1,6 +1,6 @@
 # Portfolio-Agnes-Koinange
 # Agnes Koinange
-#### Agnes Koinange Porfolio (26th, feb 2022)
+#### Agnes Koinange Porfolio (25th, feb 2022)
 #### By **Agnes Koinange**
 ## Description
 This is my first portfolio as a software developer .It shows details and a my journey of being a developer. I t has projects that i have worked since i started learning software development.
