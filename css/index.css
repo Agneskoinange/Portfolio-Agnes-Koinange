@@ -1,10 +1,25 @@
+
+div {
+  background-color: blue;
+}
+
+title{
+  align-content: center;
+  color: aliceblue;
+  font-size: large;
+  font-style: inherit;
+  background-color:blue;
+}
+
+
 .Intro {
-    color: blue;
+    color: rgb(173, 173, 185);
+    background-color: blue;
 }
 
 
 body {
-    background-color: lightblue;
+    color: lightblue;
   }
 
 
@@ -13,10 +28,7 @@ h1 {
 }
 
 
-div {
-    background-color: lightblue;
-  }
-  
+
   p {
     background-color: rgb(151, 151, 146);
   }
