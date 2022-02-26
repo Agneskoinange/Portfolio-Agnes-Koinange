@@ -16,13 +16,15 @@ This is my first portfolio as a software developer .It shows details and a my jo
 * Merged the branch repository with main branch
 
 ## Live site link
-https://github.com/Agneskoinange/Portfolio-Agnes-Koinange
+https://agneskoinange.github.io/Portfolio-Agnes-Koinange/
 
 ## Known Bugs
 None
 
 ## Technologies Used
 Github
+Html
+Css
 
 ## Support and contact details
 If you have any question comments regarding my portfolio, please contact me through koinangeagness@gmail.com
