@@ -1,7 +1,7 @@
 # Portfolio-Agnes-Koinange
 # Agnes Koinange
-#### , Agnes Koainange POrfoliO 26th, feb 2022
-#### By **Agnes KOinange**
+#### Agnes Koinange Porfolio (26th, feb 2022)
+#### By **Agnes Koinange**
 ## Description
 This is my first portfolio as a software developer .It shows details and a my journey of being a developer. I t has projects that i have worked since i started learning software development.
 ## Setup/Installation Requirements
@@ -25,7 +25,7 @@ None
 Github
 
 ## Support and contact details
-If you have any question comments regarding my portfolio, please contact me through 
+If you have any question comments regarding my portfolio, please contact me through koinangeagness@gmail.com
 
 ### License
 MIT licence
