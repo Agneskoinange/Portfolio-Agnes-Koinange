@@ -36,24 +36,34 @@ h1 {
     height : 445px;
     Float :right
   }
+
+
+.skills {
+  background-color: chocolate;
+  text-overflow: ellipsis;
+
 }
-.skill{
-  background-color: chartreuse;
+
+.intrests {
+  background-color: chocolate;
+
 }
 
-.contacts
+.Hobbies {
+  background-color: chocolate;
 
+}
 
+.Projects {
+  background-color: chocolate;
 
-.text.box {
-      text-align: center
-      padding: 2rem 2rem;
-      margin: 2rem 2rem;
-      border:solid white 1vh
-      border: radius 100px;
-    }
+}
 
-  
+.contacts {
+  background-color: chocolate;
+
+}
+
 
 
 
