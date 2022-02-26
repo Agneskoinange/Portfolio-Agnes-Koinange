@@ -1,35 +1,63 @@
 
-div {
-  background-color: blue;
+<div {
+  background-color: gray;
 }
 
-title{
+title {
   align-content: center;
-  color: aliceblue;
+  color: blue;
   font-size: large;
-  font-style: inherit;
-  background-color:blue;
 }
-
-
-.Intro {
-    color: rgb(173, 173, 185);
-    background-color: blue;
-}
-
-
-body {
-    color: lightblue;
-  }
-
 
 h1 {
-  color: blue;
+  color:blue;
+  font-weight: 700;
+  text-align: center;
+  font-size: large;
 }
 
 
 
-  p {
-    background-color: rgb(151, 151, 146);
+  .Intro { 
+     align-content:left;
+     color: blue;
+     font-size: large;
+     font-weight: 700;
+     text-align: center;
+    
   }
+
+
+
+  .About-me {
+    text-align: center;
+
+    
+    
+
+    #resize p {
+        width: 200px ;
+        height: 200px ;
+        border-radius: 50%;
+        list-style-type: none;
+        padding-left: 20px;
+        position: relative;
+      }
+
+
+      text-align: center
+      padding: 2rem 2rem;
+      margin: 2rem 2rem;
+      border:solid white 1vh
+      border: radius 100px;
+      
+    }
+
+  }
+
+.About-me {
+  text-overflow: clip;
+}
+
+}
 
