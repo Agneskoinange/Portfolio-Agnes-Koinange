@@ -22,9 +22,9 @@ https://agneskoinange.github.io/Portfolio-Agnes-Koinange/
 None
 
 ## Technologies Used
-*Github
-*Html
-*Css
+* GITHUB
+* HTML
+* CSS
 
 ## Support and contact details
 If you have any question comments regarding my portfolio, please contact me through koinangeagness@gmail.com
